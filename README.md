@@ -33,7 +33,7 @@ Research is not just a career—it is my personal calling and responsibility. I 
 
 ---
 
-## 🗂️ Publications (Grouped by Theme)
+## 🗂️ Publications 
 
 ### 🔹 Resource Economics  
 - [**Do natural resources impact economic growth?**](https://doi.org/10.1016/j.gsf.2023.101595) – Gondwana Research, 2023.  
