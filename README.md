@@ -29,7 +29,7 @@ Research is not just a career—it is my personal calling and responsibility. I 
 - Hotelling, H. (1931). *The Economics of Exhaustible Resources*. JPE. [DOI](https://doi.org/10.1086/254195)  
 - Haavelmo, T. (1944). *The Probability Approach in Econometrics*. Econometrica. [DOI](https://doi.org/10.2307/1906935)  
 - Teece, D. (1986). *Profiting from Technological Innovation*. Research Policy. [DOI](https://doi.org/10.1016/0048-7333(86)90027-2)  
-- Schumpeter, J. (1942). *Creative Destruction Theory*. (https://periferiaactiva.wordpress.com/wp-content/uploads/2015/08/joseph-schumpeter-capitalism-socialism-and-democracy-2006.pdf)  
+- Schumpeter, J. (1942). *Creative Destruction Theory*. [Url](https://periferiaactiva.wordpress.com/wp-content/uploads/2015/08/joseph-schumpeter-capitalism-socialism-and-democracy-2006.pdf)  
 
 ---
 
