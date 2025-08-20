@@ -52,8 +52,8 @@ Research is not just a career—it is my personal calling and responsibility. I 
 ### 🔹 Statistical & Econometric Modeling  
 - [**R&D Lags in Economic Models**](https://doi.org/10.1080/10438599.2024.2378893) – Economics of Innovation and New Technology, 2024.  
 - [**Specification and Estimation of Spatial Econometric Models**](https://doi.org/10.1016/0166-0462(83)90016-9) – Journal of Econometrics, 1983.  
-- [**Robust Logit/Probit Modeling of Entrepreneurial Decisions**](https://doi.org/10.3390/su14137573) – Sustainability, 2022.  
-- [**Developments in Econometric Methods for Labor Economics**](https://doi.org/10.1016/S1573-4463(99)30059-9) – Handbook of Labor Economics, 1999.  
+- [**Econometric Modeling to Measure the Social and Economic Factors in the Success of Entrepreneurship**](https://doi.org/10.3390/su14137573) – Sustainability, 2022.  
+- [**Angrist, J. D., & Krueger, A. B. (1999). Empirical Strategies in Labor Economics. In O. Ashenfelter & D. Card (Eds.)**](https://doi.org/10.1016/S1573-4463(99)03004-7) – Handbook of Labor Economics, 1999.  
 - [**The Data Revolution and Economic Analysis**](https://doi.org/10.1086/674019) – J. of Economic Perspectives, 2013.  
 
 ---
