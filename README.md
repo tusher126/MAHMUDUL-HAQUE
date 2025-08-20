@@ -46,7 +46,7 @@ Research is not just a career—it is my personal calling and responsibility. I 
 - [**Technological Innovation, Resource Allocation, and Growth**](https://doi.org/10.3386/w17769) – NBER, 2012.  
 - [**University Innovation and Local Economic Growth**](https://doi.org/10.1162/rest_a_01027) – Review of Economics and Statistics, 2019.  
 - [**Innovation, Reallocation, and Growth**](https://doi.org/10.1257/aer.20130470) – AER, 2018.  
-- [**The Economics of Innovation: From Classical Legacies to Today**](https://doi.org/10.1080/10438590802564543) – Economics of Innovation and New Technology, 2009.  
+- [**The economics of innovation: from the classical legacies to the economics of complexity**](https://doi.org/10.1080/10438590802564543) – Economics of Innovation and New Technology, 2009.  
 - [**Intangible Capital and U.S. Economic Growth**](https://doi.org/10.1111/j.1475-4991.2009.00338.x) – Review of Income and Wealth, 2009.  
 
 ### 🔹 Statistical & Econometric Modeling  
